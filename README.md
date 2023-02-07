@@ -7,5 +7,5 @@ TL;DR for devs - Developed while Experimenting with new Technologies.
 <br>
 
 <p align="center">
-✨ <b><a href="itskapri.github.io/Cheatsheets/">itskapri.github.io/Cheatsheets/</a></b> ✨
+✨ <b><a href="https://itskapri.github.io/Cheatsheets/">itskapri.github.io/Cheatsheets/</a></b> ✨
 </p>
